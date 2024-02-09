@@ -32,7 +32,7 @@ const run = async () => {
     output.push(...data);
   });
 
-  const outputPath = `../ppl-jsons/all.json`;
+  const outputPath = `../ppl-jsons/index.json`;
   fs.writeFileSync(outputPath, JSON.stringify(output, null, 2));
 };
 
