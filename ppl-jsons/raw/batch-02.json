@@ -1,0 +1,92 @@
+[
+  {
+    "firstName": "Frederick",
+    "lastName": "Douglass",
+    "dateOfBirth": "1818-02-14",
+    "age": "Died at 77",
+    "nationality": "American",
+    "tags": ["Abolitionism", "Social Reform"],
+    "fieldOfExpertise": "Abolitionism and Social Reform"
+  },
+  {
+    "firstName": "Marie",
+    "lastName": "Antoinette",
+    "dateOfBirth": "1755-11-02",
+    "age": "Died at 37",
+    "nationality": "French",
+    "tags": ["Royalty", "Historical Figure"],
+    "fieldOfExpertise": "Royalty"
+  },
+  {
+    "firstName": "Charles",
+    "lastName": "Darwin",
+    "dateOfBirth": "1809-02-12",
+    "age": "Died at 73",
+    "nationality": "British",
+    "tags": ["Science", "Evolution"],
+    "fieldOfExpertise": "Natural Science"
+  },
+  {
+    "firstName": "Cleopatra",
+    "lastName": "VII",
+    "dateOfBirth": "69-01-01",
+    "age": "Died at 39",
+    "nationality": "Egyptian",
+    "tags": ["Royalty", "Politics"],
+    "fieldOfExpertise": "Political Leadership"
+  },
+  {
+    "firstName": "Ludwig",
+    "lastName": "van Beethoven",
+    "dateOfBirth": "1770-12-16",
+    "age": "Died at 56",
+    "nationality": "German",
+    "tags": ["Music", "Composition"],
+    "fieldOfExpertise": "Music Composition"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Austen",
+    "dateOfBirth": "1775-12-16",
+    "age": "Died at 41",
+    "nationality": "British",
+    "tags": ["Literature", "Novelist"],
+    "fieldOfExpertise": "Literature"
+  },
+  {
+    "firstName": "Winston",
+    "lastName": "Churchill",
+    "dateOfBirth": "1874-11-30",
+    "age": "Died at 90",
+    "nationality": "British",
+    "tags": ["Politics", "Leadership", "Nobel Laureate"],
+    "fieldOfExpertise": "Political Leadership"
+  },
+  {
+    "firstName": "Florence",
+    "lastName": "Nightingale",
+    "dateOfBirth": "1820-05-12",
+    "age": "Died at 90",
+    "nationality": "British",
+    "tags": ["Nursing", "Social Reform"],
+    "fieldOfExpertise": "Nursing and Healthcare Reform"
+  },
+  {
+    "firstName": "Galileo",
+    "lastName": "Galilei",
+    "dateOfBirth": "1564-02-15",
+    "age": "Died at 77",
+    "nationality": "Italian",
+    "tags": ["Science", "Astronomy", "Physics"],
+    "fieldOfExpertise": "Natural Philosophy"
+  },
+  {
+    "firstName": "Rosa",
+    "lastName": "Parks",
+    "dateOfBirth": "1913-02-04",
+    "age": "Died at 92",
+    "nationality": "American",
+    "tags": ["Civil Rights", "Activism"],
+    "fieldOfExpertise": "Civil Rights Activism"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "firstName": "Albert",
+    "lastName": "Einstein",
+    "dateOfBirth": "1879-03-14",
+    "age": "Died at 76",
+    "nationality": "German",
+    "tags": ["Physics", "Science", "Nobel Laureate"],
+    "fieldOfExpertise": "Theoretical Physics"
+  },
+  {
+    "firstName": "Marie",
+    "lastName": "Curie",
+    "dateOfBirth": "1867-11-07",
+    "age": "Died at 66",
+    "nationality": "Polish",
+    "tags": ["Chemistry", "Physics", "Nobel Laureate"],
+    "fieldOfExpertise": "Physics and Chemistry"
+  },
+  {
+    "firstName": "Martin",
+    "lastName": "Luther King Jr",
+    "dateOfBirth": "1929-01-15",
+    "age": "Died at 39",
+    "nationality": "American",
+    "tags": ["Civil Rights", "Nonviolence"],
+    "fieldOfExpertise": "Civil Rights Activism"
+  },
+  {
+    "firstName": "Leonardo",
+    "lastName": "da Vinci",
+    "dateOfBirth": "1452-04-15",
+    "age": "Died at 67",
+    "nationality": "Italian",
+    "tags": ["Art", "Science", "Invention"],
+    "fieldOfExpertise": "Polymath"
+  },
+  {
+    "firstName": "Rosalind",
+    "lastName": "Franklin",
+    "dateOfBirth": "1920-07-25",
+    "age": "Died at 37",
+    "nationality": "British",
+    "tags": ["Biology", "Chemistry"],
+    "fieldOfExpertise": "Biophysics"
+  },
+  {
+    "firstName": "Mohandas",
+    "lastName": "Gandhi",
+    "dateOfBirth": "1869-10-02",
+    "age": "Died at 78",
+    "nationality": "Indian",
+    "tags": ["Civil Rights", "Nonviolence"],
+    "fieldOfExpertise": "Civil Rights Leadership"
+  },
+  {
+    "firstName": "Ada",
+    "lastName": "Lovelace",
+    "dateOfBirth": "1815-12-10",
+    "age": "Died at 36",
+    "nationality": "British",
+    "tags": ["Mathematics", "Computing"],
+    "fieldOfExpertise": "Mathematics"
+  },
+  {
+    "firstName": "Nelson",
+    "lastName": "Mandela",
+    "dateOfBirth": "1918-07-18",
+    "age": "Died at 95",
+    "nationality": "South African",
+    "tags": ["Politics", "Anti-Apartheid"],
+    "fieldOfExpertise": "Political Leadership"
+  },
+  {
+    "firstName": "Steve",
+    "lastName": "Jobs",
+    "dateOfBirth": "1955-02-24",
+    "age": "Died at 56",
+    "nationality": "American",
+    "tags": ["Technology", "Innovation"],
+    "fieldOfExpertise": "Technology and Business"
+  },
+  {
+    "firstName": "Malala",
+    "lastName": "Yousafzai",
+    "dateOfBirth": "1997-07-12",
+    "age": "Alive",
+    "nationality": "Pakistani",
+    "tags": ["Education", "Activism"],
+    "fieldOfExpertise": "Human Rights Activism"
+  }
+]

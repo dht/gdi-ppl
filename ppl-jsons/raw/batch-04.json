@@ -1,0 +1,92 @@
+[
+  {
+    "firstName": "Confucius",
+    "lastName": "",
+    "dateOfBirth": "551 BC",
+    "age": "Died in 479 BC",
+    "nationality": "Chinese",
+    "tags": ["Philosophy", "Ethics"],
+    "fieldOfExpertise": "Philosophy"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Goodall",
+    "dateOfBirth": "1934-04-03",
+    "age": "Alive",
+    "nationality": "British",
+    "tags": ["Primatology", "Conservation", "Activism"],
+    "fieldOfExpertise": "Primatology"
+  },
+  {
+    "firstName": "Ludwig",
+    "lastName": "Wittgenstein",
+    "dateOfBirth": "1889-04-26",
+    "age": "Died at 62",
+    "nationality": "Austrian",
+    "tags": ["Philosophy", "Logic", "Language"],
+    "fieldOfExpertise": "Philosophy"
+  },
+  {
+    "firstName": "Joan",
+    "lastName": "of Arc",
+    "dateOfBirth": "c.1412",
+    "age": "Died at 19",
+    "nationality": "French",
+    "tags": ["Military", "Saint", "History"],
+    "fieldOfExpertise": "Military Leadership"
+  },
+  {
+    "firstName": "Pablo",
+    "lastName": "Picasso",
+    "dateOfBirth": "1881-10-25",
+    "age": "Died at 91",
+    "nationality": "Spanish",
+    "tags": ["Art", "Painting", "Sculpture"],
+    "fieldOfExpertise": "Visual Arts"
+  },
+  {
+    "firstName": "Rachel",
+    "lastName": "Carson",
+    "dateOfBirth": "1907-05-27",
+    "age": "Died at 56",
+    "nationality": "American",
+    "tags": ["Conservation", "Ecology", "Writing"],
+    "fieldOfExpertise": "Environmental Science"
+  },
+  {
+    "firstName": "Srinivasa",
+    "lastName": "Ramanujan",
+    "dateOfBirth": "1887-12-22",
+    "age": "Died at 32",
+    "nationality": "Indian",
+    "tags": ["Mathematics"],
+    "fieldOfExpertise": "Mathematics"
+  },
+  {
+    "firstName": "Virginia",
+    "lastName": "Woolf",
+    "dateOfBirth": "1882-01-25",
+    "age": "Died at 59",
+    "nationality": "British",
+    "tags": ["Literature", "Modernism"],
+    "fieldOfExpertise": "Literature"
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Graham Bell",
+    "dateOfBirth": "1847-03-03",
+    "age": "Died at 75",
+    "nationality": "Scottish-Canadian",
+    "tags": ["Invention", "Science"],
+    "fieldOfExpertise": "Invention and Science"
+  },
+  {
+    "firstName": "Margaret",
+    "lastName": "Thatcher",
+    "dateOfBirth": "1925-10-13",
+    "age": "Died at 87",
+    "nationality": "British",
+    "tags": ["Politics", "Leadership"],
+    "fieldOfExpertise": "Political Leadership"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "firstName": "Serena",
+    "lastName": "Williams",
+    "dateOfBirth": "1981-09-26",
+    "age": "Alive",
+    "nationality": "American",
+    "tags": ["Tennis", "Sports"],
+    "fieldOfExpertise": "Professional Tennis"
+  },
+  {
+    "firstName": "Robin",
+    "lastName": "Williams",
+    "dateOfBirth": "1951-07-21",
+    "age": "Died at 63",
+    "nationality": "American",
+    "tags": ["Comedy", "Acting"],
+    "fieldOfExpertise": "Acting and Comedy"
+  },
+  {
+    "firstName": "Bill",
+    "lastName": "Burr",
+    "dateOfBirth": "1968-06-10",
+    "age": "Alive",
+    "nationality": "American",
+    "tags": ["Comedy"],
+    "fieldOfExpertise": "Stand-up Comedy"
+  },
+  {
+    "firstName": "Amelia",
+    "lastName": "Earhart",
+    "dateOfBirth": "1897-07-24",
+    "age": "Disappeared in 1937",
+    "nationality": "American",
+    "tags": ["Aviation", "Exploration"],
+    "fieldOfExpertise": "Aviation"
+  },
+  {
+    "firstName": "Cristiano",
+    "lastName": "Ronaldo",
+    "dateOfBirth": "1985-02-05",
+    "age": "Alive",
+    "nationality": "Portuguese",
+    "tags": ["Football", "Sports"],
+    "fieldOfExpertise": "Professional Football"
+  },
+  {
+    "firstName": "Lionel",
+    "lastName": "Messi",
+    "dateOfBirth": "1987-06-24",
+    "age": "Alive",
+    "nationality": "Argentinian",
+    "tags": ["Football", "Sports"],
+    "fieldOfExpertise": "Professional Football"
+  },
+  {
+    "firstName": "Bryan",
+    "lastName": "Cranston",
+    "dateOfBirth": "1956-03-07",
+    "age": "Alive",
+    "nationality": "American",
+    "tags": ["Acting"],
+    "fieldOfExpertise": "Acting"
+  },
+  {
+    "firstName": "Elon",
+    "lastName": "Musk",
+    "dateOfBirth": "1971-06-28",
+    "age": "Alive",
+    "nationality": "South African, Canadian, American",
+    "tags": ["Technology", "Entrepreneurship"],
+    "fieldOfExpertise": "Business and Technology"
+  },
+  {
+    "firstName": "Elvis",
+    "lastName": "Presley",
+    "dateOfBirth": "1935-01-08",
+    "age": "Died at 42",
+    "nationality": "American",
+    "tags": ["Music", "Rock and Roll"],
+    "fieldOfExpertise": "Music"
+  },
+  {
+    "firstName": "Frank",
+    "lastName": "Sinatra",
+    "dateOfBirth": "1915-12-12",
+    "age": "Died at 82",
+    "nationality": "American",
+    "tags": ["Music", "Acting"],
+    "fieldOfExpertise": "Music and Acting"
+  },
+  {
+    "firstName": "Indira",
+    "lastName": "Gandhi",
+    "dateOfBirth": "1917-11-19",
+    "age": "Died at 66",
+    "nationality": "Indian",
+    "tags": ["Politics"],
+    "fieldOfExpertise": "Political Leadership"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Brown",
+    "dateOfBirth": "1933-05-03",
+    "age": "Died at 73",
+    "nationality": "American",
+    "tags": ["Music", "Soul", "Funk"],
+    "fieldOfExpertise": "Music"
+  },
+  {
+    "firstName": "J.K.",
+    "lastName": "Rowling",
+    "dateOfBirth": "1965-07-31",
+    "age": "Alive",
+    "nationality": "British",
+    "tags": ["Writing", "Literature"],
+    "fieldOfExpertise": "Writing"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Lennon",
+    "dateOfBirth": "1940-10-09",
+    "age": "Died at 40",
+    "nationality": "British",
+    "tags": ["Music", "The Beatles"],
+    "fieldOfExpertise": "Music"
+  },
+  {
+    "firstName": "Johnny",
+    "lastName": "Depp",
+    "dateOfBirth": "1963-06-09",
+    "age": "Alive",
+    "nationality": "American",
+    "tags": ["Acting"],
+    "fieldOfExpertise": "Acting"
+  },
+  {
+    "firstName": "Leonardo",
+    "lastName": "DiCaprio",
+    "dateOfBirth": "1974-11-11",
+    "age": "Alive",
+    "nationality": "American",
+    "tags": ["Acting", "Environmental Activism"],
+    "fieldOfExpertise": "Acting"
+  },
+  {
+    "firstName": "Muhammad",
+    "lastName": "Ali",
+    "dateOfBirth": "1942-01-17",
+    "age": "Died at 74",
+    "nationality": "American",
+    "tags": ["Boxing", "Sports", "Activism"],
+    "fieldOfExpertise": "Professional Boxing"
+  },
+  {
+    "firstName": "Mustafa Kemal",
+    "lastName": "Atatürk",
+    "dateOfBirth": "1881-05-19",
+    "age": "Died at 57",
+    "nationality": "Turkish",
+    "tags": ["Politics", "Military"],
+    "fieldOfExpertise": "Political and Military Leadership"
+  },
+  {
+    "firstName": "Paulo",
+    "lastName": "Coelho",
+    "dateOfBirth": "1947-08-24",
+    "age": "Alive",
+    "nationality": "Brazilian",
+    "tags": ["Writing"],
+    "fieldOfExpertise": "Writing"
+  },
+  {
+    "firstName": "Steven",
+    "lastName": "Spielberg",
+    "dateOfBirth": "1946-12-18",
+    "age": "Alive",
+    "nationality": "American",
+    "tags": ["Filmmaking"],
+    "fieldOfExpertise": "Film Directing and Production"
+  },
+  {
+    "firstName": "Tracy",
+    "lastName": "Chapman",
+    "dateOfBirth": "1964-03-30",
+    "age": "57",
+    "nationality": "American",
+    "tags": ["Music", "Singer", "Songwriter"],
+    "fieldOfExpertise": "Music"
+  },
+  {
+    "firstName": "Vincent",
+    "lastName": "van Gogh",
+    "dateOfBirth": "1853-03-30",
+    "age": "Died at 37",
+    "nationality": "Dutch",
+    "tags": ["Art", "Painting"],
+    "fieldOfExpertise": "Art"
+  }
+]

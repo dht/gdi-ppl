@@ -1,0 +1,949 @@
+[
+  [
+    {
+      "firstName": "Albert",
+      "lastName": "Einstein",
+      "dateOfBirth": "1879-03-14",
+      "age": "Died at 76",
+      "nationality": "German",
+      "tags": [
+        "Physics",
+        "Science",
+        "Nobel Laureate"
+      ],
+      "fieldOfExpertise": "Theoretical Physics",
+      "thumbUrl": "albert.einstein_thumb.jpg",
+      "imageUrl": "albert.einstein.jpg",
+      "imageExists": true
+    },
+    {
+      "firstName": "Marie",
+      "lastName": "Curie",
+      "dateOfBirth": "1867-11-07",
+      "age": "Died at 66",
+      "nationality": "Polish",
+      "tags": [
+        "Chemistry",
+        "Physics",
+        "Nobel Laureate"
+      ],
+      "fieldOfExpertise": "Physics and Chemistry",
+      "thumbUrl": "marie.curie_thumb.jpg",
+      "imageUrl": "marie.curie.jpg",
+      "imageExists": true
+    },
+    {
+      "firstName": "Martin",
+      "lastName": "Luther King Jr",
+      "dateOfBirth": "1929-01-15",
+      "age": "Died at 39",
+      "nationality": "American",
+      "tags": [
+        "Civil Rights",
+        "Nonviolence"
+      ],
+      "fieldOfExpertise": "Civil Rights Activism",
+      "thumbUrl": "martin.luther.king.jr_thumb.jpg",
+      "imageUrl": "martin.luther.king.jr.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Leonardo",
+      "lastName": "da Vinci",
+      "dateOfBirth": "1452-04-15",
+      "age": "Died at 67",
+      "nationality": "Italian",
+      "tags": [
+        "Art",
+        "Science",
+        "Invention"
+      ],
+      "fieldOfExpertise": "Polymath",
+      "thumbUrl": "leonardo.da.vinci_thumb.jpg",
+      "imageUrl": "leonardo.da.vinci.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Rosalind",
+      "lastName": "Franklin",
+      "dateOfBirth": "1920-07-25",
+      "age": "Died at 37",
+      "nationality": "British",
+      "tags": [
+        "Biology",
+        "Chemistry"
+      ],
+      "fieldOfExpertise": "Biophysics",
+      "thumbUrl": "rosalind.franklin_thumb.jpg",
+      "imageUrl": "rosalind.franklin.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Mohandas",
+      "lastName": "Gandhi",
+      "dateOfBirth": "1869-10-02",
+      "age": "Died at 78",
+      "nationality": "Indian",
+      "tags": [
+        "Civil Rights",
+        "Nonviolence"
+      ],
+      "fieldOfExpertise": "Civil Rights Leadership",
+      "thumbUrl": "mohandas.gandhi_thumb.jpg",
+      "imageUrl": "mohandas.gandhi.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Ada",
+      "lastName": "Lovelace",
+      "dateOfBirth": "1815-12-10",
+      "age": "Died at 36",
+      "nationality": "British",
+      "tags": [
+        "Mathematics",
+        "Computing"
+      ],
+      "fieldOfExpertise": "Mathematics",
+      "thumbUrl": "ada.lovelace_thumb.jpg",
+      "imageUrl": "ada.lovelace.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Nelson",
+      "lastName": "Mandela",
+      "dateOfBirth": "1918-07-18",
+      "age": "Died at 95",
+      "nationality": "South African",
+      "tags": [
+        "Politics",
+        "Anti-Apartheid"
+      ],
+      "fieldOfExpertise": "Political Leadership",
+      "thumbUrl": "nelson.mandela_thumb.jpg",
+      "imageUrl": "nelson.mandela.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Steve",
+      "lastName": "Jobs",
+      "dateOfBirth": "1955-02-24",
+      "age": "Died at 56",
+      "nationality": "American",
+      "tags": [
+        "Technology",
+        "Innovation"
+      ],
+      "fieldOfExpertise": "Technology and Business",
+      "thumbUrl": "steve.jobs_thumb.jpg",
+      "imageUrl": "steve.jobs.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Malala",
+      "lastName": "Yousafzai",
+      "dateOfBirth": "1997-07-12",
+      "age": "Alive",
+      "nationality": "Pakistani",
+      "tags": [
+        "Education",
+        "Activism"
+      ],
+      "fieldOfExpertise": "Human Rights Activism",
+      "thumbUrl": "malala.yousafzai_thumb.jpg",
+      "imageUrl": "malala.yousafzai.jpg",
+      "imageExists": false
+    }
+  ],
+  [
+    {
+      "firstName": "Frederick",
+      "lastName": "Douglass",
+      "dateOfBirth": "1818-02-14",
+      "age": "Died at 77",
+      "nationality": "American",
+      "tags": [
+        "Abolitionism",
+        "Social Reform"
+      ],
+      "fieldOfExpertise": "Abolitionism and Social Reform",
+      "thumbUrl": "frederick.douglass_thumb.jpg",
+      "imageUrl": "frederick.douglass.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Marie",
+      "lastName": "Antoinette",
+      "dateOfBirth": "1755-11-02",
+      "age": "Died at 37",
+      "nationality": "French",
+      "tags": [
+        "Royalty",
+        "Historical Figure"
+      ],
+      "fieldOfExpertise": "Royalty",
+      "thumbUrl": "marie.antoinette_thumb.jpg",
+      "imageUrl": "marie.antoinette.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Charles",
+      "lastName": "Darwin",
+      "dateOfBirth": "1809-02-12",
+      "age": "Died at 73",
+      "nationality": "British",
+      "tags": [
+        "Science",
+        "Evolution"
+      ],
+      "fieldOfExpertise": "Natural Science",
+      "thumbUrl": "charles.darwin_thumb.jpg",
+      "imageUrl": "charles.darwin.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Cleopatra",
+      "lastName": "VII",
+      "dateOfBirth": "69-01-01",
+      "age": "Died at 39",
+      "nationality": "Egyptian",
+      "tags": [
+        "Royalty",
+        "Politics"
+      ],
+      "fieldOfExpertise": "Political Leadership",
+      "thumbUrl": "cleopatra.vii_thumb.jpg",
+      "imageUrl": "cleopatra.vii.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Ludwig",
+      "lastName": "van Beethoven",
+      "dateOfBirth": "1770-12-16",
+      "age": "Died at 56",
+      "nationality": "German",
+      "tags": [
+        "Music",
+        "Composition"
+      ],
+      "fieldOfExpertise": "Music Composition",
+      "thumbUrl": "ludwig.van.beethoven_thumb.jpg",
+      "imageUrl": "ludwig.van.beethoven.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Jane",
+      "lastName": "Austen",
+      "dateOfBirth": "1775-12-16",
+      "age": "Died at 41",
+      "nationality": "British",
+      "tags": [
+        "Literature",
+        "Novelist"
+      ],
+      "fieldOfExpertise": "Literature",
+      "thumbUrl": "jane.austen_thumb.jpg",
+      "imageUrl": "jane.austen.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Winston",
+      "lastName": "Churchill",
+      "dateOfBirth": "1874-11-30",
+      "age": "Died at 90",
+      "nationality": "British",
+      "tags": [
+        "Politics",
+        "Leadership",
+        "Nobel Laureate"
+      ],
+      "fieldOfExpertise": "Political Leadership",
+      "thumbUrl": "winston.churchill_thumb.jpg",
+      "imageUrl": "winston.churchill.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Florence",
+      "lastName": "Nightingale",
+      "dateOfBirth": "1820-05-12",
+      "age": "Died at 90",
+      "nationality": "British",
+      "tags": [
+        "Nursing",
+        "Social Reform"
+      ],
+      "fieldOfExpertise": "Nursing and Healthcare Reform",
+      "thumbUrl": "florence.nightingale_thumb.jpg",
+      "imageUrl": "florence.nightingale.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Galileo",
+      "lastName": "Galilei",
+      "dateOfBirth": "1564-02-15",
+      "age": "Died at 77",
+      "nationality": "Italian",
+      "tags": [
+        "Science",
+        "Astronomy",
+        "Physics"
+      ],
+      "fieldOfExpertise": "Natural Philosophy",
+      "thumbUrl": "galileo.galilei_thumb.jpg",
+      "imageUrl": "galileo.galilei.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Rosa",
+      "lastName": "Parks",
+      "dateOfBirth": "1913-02-04",
+      "age": "Died at 92",
+      "nationality": "American",
+      "tags": [
+        "Civil Rights",
+        "Activism"
+      ],
+      "fieldOfExpertise": "Civil Rights Activism",
+      "thumbUrl": "rosa.parks_thumb.jpg",
+      "imageUrl": "rosa.parks.jpg",
+      "imageExists": false
+    }
+  ],
+  [
+    {
+      "firstName": "Amelia",
+      "lastName": "Earhart",
+      "dateOfBirth": "1897-07-24",
+      "age": "Disappeared in 1937, declared dead in 1939",
+      "nationality": "American",
+      "tags": [
+        "Aviation",
+        "Explorer"
+      ],
+      "fieldOfExpertise": "Aviation",
+      "thumbUrl": "amelia.earhart_thumb.jpg",
+      "imageUrl": "amelia.earhart.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Socrates",
+      "lastName": "",
+      "dateOfBirth": "470 BC",
+      "age": "Died in 399 BC",
+      "nationality": "Greek",
+      "tags": [
+        "Philosophy"
+      ],
+      "fieldOfExpertise": "Philosophy",
+      "thumbUrl": "socrates._thumb.jpg",
+      "imageUrl": "socrates..jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Simone",
+      "lastName": "de Beauvoir",
+      "dateOfBirth": "1908-01-09",
+      "age": "Died at 78",
+      "nationality": "French",
+      "tags": [
+        "Philosophy",
+        "Feminism"
+      ],
+      "fieldOfExpertise": "Philosophy and Feminism",
+      "thumbUrl": "simone.de.beauvoir_thumb.jpg",
+      "imageUrl": "simone.de.beauvoir.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Alan",
+      "lastName": "Turing",
+      "dateOfBirth": "1912-06-23",
+      "age": "Died at 41",
+      "nationality": "British",
+      "tags": [
+        "Computing",
+        "Mathematics",
+        "Cryptography"
+      ],
+      "fieldOfExpertise": "Computer Science and Mathematics",
+      "thumbUrl": "alan.turing_thumb.jpg",
+      "imageUrl": "alan.turing.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Coco",
+      "lastName": "Chanel",
+      "dateOfBirth": "1883-08-19",
+      "age": "Died at 87",
+      "nationality": "French",
+      "tags": [
+        "Fashion",
+        "Perfume"
+      ],
+      "fieldOfExpertise": "Fashion Design",
+      "thumbUrl": "coco.chanel_thumb.jpg",
+      "imageUrl": "coco.chanel.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Frida",
+      "lastName": "Kahlo",
+      "dateOfBirth": "1907-07-06",
+      "age": "Died at 47",
+      "nationality": "Mexican",
+      "tags": [
+        "Art",
+        "Painting"
+      ],
+      "fieldOfExpertise": "Painting",
+      "thumbUrl": "frida.kahlo_thumb.jpg",
+      "imageUrl": "frida.kahlo.jpg",
+      "imageExists": true
+    },
+    {
+      "firstName": "Nikola",
+      "lastName": "Tesla",
+      "dateOfBirth": "1856-07-10",
+      "age": "Died at 86",
+      "nationality": "Serbian-American",
+      "tags": [
+        "Invention",
+        "Electrical Engineering",
+        "Physics"
+      ],
+      "fieldOfExpertise": "Electrical Engineering and Physics",
+      "thumbUrl": "nikola.tesla_thumb.jpg",
+      "imageUrl": "nikola.tesla.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Marilyn",
+      "lastName": "Monroe",
+      "dateOfBirth": "1926-06-01",
+      "age": "Died at 36",
+      "nationality": "American",
+      "tags": [
+        "Film",
+        "Culture"
+      ],
+      "fieldOfExpertise": "Acting",
+      "thumbUrl": "marilyn.monroe_thumb.jpg",
+      "imageUrl": "marilyn.monroe.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Vincent",
+      "lastName": "van Gogh",
+      "dateOfBirth": "1853-03-30",
+      "age": "Died at 37",
+      "nationality": "Dutch",
+      "tags": [
+        "Art",
+        "Painting"
+      ],
+      "fieldOfExpertise": "Painting",
+      "thumbUrl": "vincent.van.gogh_thumb.jpg",
+      "imageUrl": "vincent.van.gogh.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Harriet",
+      "lastName": "Tubman",
+      "dateOfBirth": "c.1822",
+      "age": "Died in 1913",
+      "nationality": "American",
+      "tags": [
+        "Abolitionism",
+        "Civil Rights"
+      ],
+      "fieldOfExpertise": "Abolitionism and Activism",
+      "thumbUrl": "harriet.tubman_thumb.jpg",
+      "imageUrl": "harriet.tubman.jpg",
+      "imageExists": false
+    }
+  ],
+  [
+    {
+      "firstName": "Confucius",
+      "lastName": "",
+      "dateOfBirth": "551 BC",
+      "age": "Died in 479 BC",
+      "nationality": "Chinese",
+      "tags": [
+        "Philosophy",
+        "Ethics"
+      ],
+      "fieldOfExpertise": "Philosophy",
+      "thumbUrl": "confucius._thumb.jpg",
+      "imageUrl": "confucius..jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Jane",
+      "lastName": "Goodall",
+      "dateOfBirth": "1934-04-03",
+      "age": "Alive",
+      "nationality": "British",
+      "tags": [
+        "Primatology",
+        "Conservation",
+        "Activism"
+      ],
+      "fieldOfExpertise": "Primatology",
+      "thumbUrl": "jane.goodall_thumb.jpg",
+      "imageUrl": "jane.goodall.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Ludwig",
+      "lastName": "Wittgenstein",
+      "dateOfBirth": "1889-04-26",
+      "age": "Died at 62",
+      "nationality": "Austrian",
+      "tags": [
+        "Philosophy",
+        "Logic",
+        "Language"
+      ],
+      "fieldOfExpertise": "Philosophy",
+      "thumbUrl": "ludwig.wittgenstein_thumb.jpg",
+      "imageUrl": "ludwig.wittgenstein.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Joan",
+      "lastName": "of Arc",
+      "dateOfBirth": "c.1412",
+      "age": "Died at 19",
+      "nationality": "French",
+      "tags": [
+        "Military",
+        "Saint",
+        "History"
+      ],
+      "fieldOfExpertise": "Military Leadership",
+      "thumbUrl": "joan.of.arc_thumb.jpg",
+      "imageUrl": "joan.of.arc.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Pablo",
+      "lastName": "Picasso",
+      "dateOfBirth": "1881-10-25",
+      "age": "Died at 91",
+      "nationality": "Spanish",
+      "tags": [
+        "Art",
+        "Painting",
+        "Sculpture"
+      ],
+      "fieldOfExpertise": "Visual Arts",
+      "thumbUrl": "pablo.picasso_thumb.jpg",
+      "imageUrl": "pablo.picasso.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Rachel",
+      "lastName": "Carson",
+      "dateOfBirth": "1907-05-27",
+      "age": "Died at 56",
+      "nationality": "American",
+      "tags": [
+        "Conservation",
+        "Ecology",
+        "Writing"
+      ],
+      "fieldOfExpertise": "Environmental Science",
+      "thumbUrl": "rachel.carson_thumb.jpg",
+      "imageUrl": "rachel.carson.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Srinivasa",
+      "lastName": "Ramanujan",
+      "dateOfBirth": "1887-12-22",
+      "age": "Died at 32",
+      "nationality": "Indian",
+      "tags": [
+        "Mathematics"
+      ],
+      "fieldOfExpertise": "Mathematics",
+      "thumbUrl": "srinivasa.ramanujan_thumb.jpg",
+      "imageUrl": "srinivasa.ramanujan.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Virginia",
+      "lastName": "Woolf",
+      "dateOfBirth": "1882-01-25",
+      "age": "Died at 59",
+      "nationality": "British",
+      "tags": [
+        "Literature",
+        "Modernism"
+      ],
+      "fieldOfExpertise": "Literature",
+      "thumbUrl": "virginia.woolf_thumb.jpg",
+      "imageUrl": "virginia.woolf.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Alexander",
+      "lastName": "Graham Bell",
+      "dateOfBirth": "1847-03-03",
+      "age": "Died at 75",
+      "nationality": "Scottish-Canadian",
+      "tags": [
+        "Invention",
+        "Science"
+      ],
+      "fieldOfExpertise": "Invention and Science",
+      "thumbUrl": "alexander.graham.bell_thumb.jpg",
+      "imageUrl": "alexander.graham.bell.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Margaret",
+      "lastName": "Thatcher",
+      "dateOfBirth": "1925-10-13",
+      "age": "Died at 87",
+      "nationality": "British",
+      "tags": [
+        "Politics",
+        "Leadership"
+      ],
+      "fieldOfExpertise": "Political Leadership",
+      "thumbUrl": "margaret.thatcher_thumb.jpg",
+      "imageUrl": "margaret.thatcher.jpg",
+      "imageExists": false
+    }
+  ],
+  [
+    {
+      "firstName": "Serena",
+      "lastName": "Williams",
+      "dateOfBirth": "1981-09-26",
+      "age": "Alive",
+      "nationality": "American",
+      "tags": [
+        "Tennis",
+        "Sports"
+      ],
+      "fieldOfExpertise": "Professional Tennis",
+      "thumbUrl": "serena.williams_thumb.jpg",
+      "imageUrl": "serena.williams.jpg",
+      "imageExists": true
+    },
+    {
+      "firstName": "Robin",
+      "lastName": "Williams",
+      "dateOfBirth": "1951-07-21",
+      "age": "Died at 63",
+      "nationality": "American",
+      "tags": [
+        "Comedy",
+        "Acting"
+      ],
+      "fieldOfExpertise": "Acting and Comedy",
+      "thumbUrl": "robin.williams_thumb.jpg",
+      "imageUrl": "robin.williams.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Bill",
+      "lastName": "Burr",
+      "dateOfBirth": "1968-06-10",
+      "age": "Alive",
+      "nationality": "American",
+      "tags": [
+        "Comedy"
+      ],
+      "fieldOfExpertise": "Stand-up Comedy",
+      "thumbUrl": "bill.burr_thumb.jpg",
+      "imageUrl": "bill.burr.jpg",
+      "imageExists": true
+    },
+    {
+      "firstName": "Amelia",
+      "lastName": "Earhart",
+      "dateOfBirth": "1897-07-24",
+      "age": "Disappeared in 1937",
+      "nationality": "American",
+      "tags": [
+        "Aviation",
+        "Exploration"
+      ],
+      "fieldOfExpertise": "Aviation",
+      "thumbUrl": "amelia.earhart_thumb.jpg",
+      "imageUrl": "amelia.earhart.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Cristiano",
+      "lastName": "Ronaldo",
+      "dateOfBirth": "1985-02-05",
+      "age": "Alive",
+      "nationality": "Portuguese",
+      "tags": [
+        "Football",
+        "Sports"
+      ],
+      "fieldOfExpertise": "Professional Football",
+      "thumbUrl": "cristiano.ronaldo_thumb.jpg",
+      "imageUrl": "cristiano.ronaldo.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Lionel",
+      "lastName": "Messi",
+      "dateOfBirth": "1987-06-24",
+      "age": "Alive",
+      "nationality": "Argentinian",
+      "tags": [
+        "Football",
+        "Sports"
+      ],
+      "fieldOfExpertise": "Professional Football",
+      "thumbUrl": "lionel.messi_thumb.jpg",
+      "imageUrl": "lionel.messi.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Bryan",
+      "lastName": "Cranston",
+      "dateOfBirth": "1956-03-07",
+      "age": "Alive",
+      "nationality": "American",
+      "tags": [
+        "Acting"
+      ],
+      "fieldOfExpertise": "Acting",
+      "thumbUrl": "bryan.cranston_thumb.jpg",
+      "imageUrl": "bryan.cranston.jpg",
+      "imageExists": true
+    },
+    {
+      "firstName": "Elon",
+      "lastName": "Musk",
+      "dateOfBirth": "1971-06-28",
+      "age": "Alive",
+      "nationality": "South African, Canadian, American",
+      "tags": [
+        "Technology",
+        "Entrepreneurship"
+      ],
+      "fieldOfExpertise": "Business and Technology",
+      "thumbUrl": "elon.musk_thumb.jpg",
+      "imageUrl": "elon.musk.jpg",
+      "imageExists": true
+    },
+    {
+      "firstName": "Elvis",
+      "lastName": "Presley",
+      "dateOfBirth": "1935-01-08",
+      "age": "Died at 42",
+      "nationality": "American",
+      "tags": [
+        "Music",
+        "Rock and Roll"
+      ],
+      "fieldOfExpertise": "Music",
+      "thumbUrl": "elvis.presley_thumb.jpg",
+      "imageUrl": "elvis.presley.jpg",
+      "imageExists": true
+    },
+    {
+      "firstName": "Frank",
+      "lastName": "Sinatra",
+      "dateOfBirth": "1915-12-12",
+      "age": "Died at 82",
+      "nationality": "American",
+      "tags": [
+        "Music",
+        "Acting"
+      ],
+      "fieldOfExpertise": "Music and Acting",
+      "thumbUrl": "frank.sinatra_thumb.jpg",
+      "imageUrl": "frank.sinatra.jpg",
+      "imageExists": true
+    },
+    {
+      "firstName": "Indira",
+      "lastName": "Gandhi",
+      "dateOfBirth": "1917-11-19",
+      "age": "Died at 66",
+      "nationality": "Indian",
+      "tags": [
+        "Politics"
+      ],
+      "fieldOfExpertise": "Political Leadership",
+      "thumbUrl": "indira.gandhi_thumb.jpg",
+      "imageUrl": "indira.gandhi.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "James",
+      "lastName": "Brown",
+      "dateOfBirth": "1933-05-03",
+      "age": "Died at 73",
+      "nationality": "American",
+      "tags": [
+        "Music",
+        "Soul",
+        "Funk"
+      ],
+      "fieldOfExpertise": "Music",
+      "thumbUrl": "james.brown_thumb.jpg",
+      "imageUrl": "james.brown.jpg",
+      "imageExists": true
+    },
+    {
+      "firstName": "J.K.",
+      "lastName": "Rowling",
+      "dateOfBirth": "1965-07-31",
+      "age": "Alive",
+      "nationality": "British",
+      "tags": [
+        "Writing",
+        "Literature"
+      ],
+      "fieldOfExpertise": "Writing",
+      "thumbUrl": "j.k..rowling_thumb.jpg",
+      "imageUrl": "j.k..rowling.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "John",
+      "lastName": "Lennon",
+      "dateOfBirth": "1940-10-09",
+      "age": "Died at 40",
+      "nationality": "British",
+      "tags": [
+        "Music",
+        "The Beatles"
+      ],
+      "fieldOfExpertise": "Music",
+      "thumbUrl": "john.lennon_thumb.jpg",
+      "imageUrl": "john.lennon.jpg",
+      "imageExists": true
+    },
+    {
+      "firstName": "Johnny",
+      "lastName": "Depp",
+      "dateOfBirth": "1963-06-09",
+      "age": "Alive",
+      "nationality": "American",
+      "tags": [
+        "Acting"
+      ],
+      "fieldOfExpertise": "Acting",
+      "thumbUrl": "johnny.depp_thumb.jpg",
+      "imageUrl": "johnny.depp.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Leonardo",
+      "lastName": "DiCaprio",
+      "dateOfBirth": "1974-11-11",
+      "age": "Alive",
+      "nationality": "American",
+      "tags": [
+        "Acting",
+        "Environmental Activism"
+      ],
+      "fieldOfExpertise": "Acting",
+      "thumbUrl": "leonardo.dicaprio_thumb.jpg",
+      "imageUrl": "leonardo.dicaprio.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Muhammad",
+      "lastName": "Ali",
+      "dateOfBirth": "1942-01-17",
+      "age": "Died at 74",
+      "nationality": "American",
+      "tags": [
+        "Boxing",
+        "Sports",
+        "Activism"
+      ],
+      "fieldOfExpertise": "Professional Boxing",
+      "thumbUrl": "muhammad.ali_thumb.jpg",
+      "imageUrl": "muhammad.ali.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Mustafa Kemal",
+      "lastName": "Atatürk",
+      "dateOfBirth": "1881-05-19",
+      "age": "Died at 57",
+      "nationality": "Turkish",
+      "tags": [
+        "Politics",
+        "Military"
+      ],
+      "fieldOfExpertise": "Political and Military Leadership",
+      "thumbUrl": "mustafa.kemal.atatürk_thumb.jpg",
+      "imageUrl": "mustafa.kemal.atatürk.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Paulo",
+      "lastName": "Coelho",
+      "dateOfBirth": "1947-08-24",
+      "age": "Alive",
+      "nationality": "Brazilian",
+      "tags": [
+        "Writing"
+      ],
+      "fieldOfExpertise": "Writing",
+      "thumbUrl": "paulo.coelho_thumb.jpg",
+      "imageUrl": "paulo.coelho.jpg",
+      "imageExists": false
+    },
+    {
+      "firstName": "Steven",
+      "lastName": "Spielberg",
+      "dateOfBirth": "1946-12-18",
+      "age": "Alive",
+      "nationality": "American",
+      "tags": [
+        "Filmmaking"
+      ],
+      "fieldOfExpertise": "Film Directing and Production",
+      "thumbUrl": "steven.spielberg_thumb.jpg",
+      "imageUrl": "steven.spielberg.jpg",
+      "imageExists": true
+    },
+    {
+      "firstName": "Tracy",
+      "lastName": "Chapman",
+      "dateOfBirth": "1964-03-30",
+      "age": "57",
+      "nationality": "American",
+      "tags": [
+        "Music",
+        "Singer",
+        "Songwriter"
+      ],
+      "fieldOfExpertise": "Music",
+      "thumbUrl": "tracy.chapman_thumb.jpg",
+      "imageUrl": "tracy.chapman.jpg",
+      "imageExists": true
+    },
+    {
+      "firstName": "Vincent",
+      "lastName": "van Gogh",
+      "dateOfBirth": "1853-03-30",
+      "age": "Died at 37",
+      "nationality": "Dutch",
+      "tags": [
+        "Art",
+        "Painting"
+      ],
+      "fieldOfExpertise": "Art",
+      "thumbUrl": "vincent.van.gogh_thumb.jpg",
+      "imageUrl": "vincent.van.gogh.jpg",
+      "imageExists": false
+    }
+  ]
+]

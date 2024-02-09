@@ -1,0 +1,92 @@
+[
+  {
+    "firstName": "Amelia",
+    "lastName": "Earhart",
+    "dateOfBirth": "1897-07-24",
+    "age": "Disappeared in 1937, declared dead in 1939",
+    "nationality": "American",
+    "tags": ["Aviation", "Explorer"],
+    "fieldOfExpertise": "Aviation"
+  },
+  {
+    "firstName": "Socrates",
+    "lastName": "",
+    "dateOfBirth": "470 BC",
+    "age": "Died in 399 BC",
+    "nationality": "Greek",
+    "tags": ["Philosophy"],
+    "fieldOfExpertise": "Philosophy"
+  },
+  {
+    "firstName": "Simone",
+    "lastName": "de Beauvoir",
+    "dateOfBirth": "1908-01-09",
+    "age": "Died at 78",
+    "nationality": "French",
+    "tags": ["Philosophy", "Feminism"],
+    "fieldOfExpertise": "Philosophy and Feminism"
+  },
+  {
+    "firstName": "Alan",
+    "lastName": "Turing",
+    "dateOfBirth": "1912-06-23",
+    "age": "Died at 41",
+    "nationality": "British",
+    "tags": ["Computing", "Mathematics", "Cryptography"],
+    "fieldOfExpertise": "Computer Science and Mathematics"
+  },
+  {
+    "firstName": "Coco",
+    "lastName": "Chanel",
+    "dateOfBirth": "1883-08-19",
+    "age": "Died at 87",
+    "nationality": "French",
+    "tags": ["Fashion", "Perfume"],
+    "fieldOfExpertise": "Fashion Design"
+  },
+  {
+    "firstName": "Frida",
+    "lastName": "Kahlo",
+    "dateOfBirth": "1907-07-06",
+    "age": "Died at 47",
+    "nationality": "Mexican",
+    "tags": ["Art", "Painting"],
+    "fieldOfExpertise": "Painting"
+  },
+  {
+    "firstName": "Nikola",
+    "lastName": "Tesla",
+    "dateOfBirth": "1856-07-10",
+    "age": "Died at 86",
+    "nationality": "Serbian-American",
+    "tags": ["Invention", "Electrical Engineering", "Physics"],
+    "fieldOfExpertise": "Electrical Engineering and Physics"
+  },
+  {
+    "firstName": "Marilyn",
+    "lastName": "Monroe",
+    "dateOfBirth": "1926-06-01",
+    "age": "Died at 36",
+    "nationality": "American",
+    "tags": ["Film", "Culture"],
+    "fieldOfExpertise": "Acting"
+  },
+  {
+    "firstName": "Vincent",
+    "lastName": "van Gogh",
+    "dateOfBirth": "1853-03-30",
+    "age": "Died at 37",
+    "nationality": "Dutch",
+    "tags": ["Art", "Painting"],
+    "fieldOfExpertise": "Painting"
+  },
+  {
+    "firstName": "Harriet",
+    "lastName": "Tubman",
+    "dateOfBirth": "c.1822",
+    "age": "Died in 1913",
+    "nationality": "American",
+    "tags": ["Abolitionism", "Civil Rights"],
+    "fieldOfExpertise": "Abolitionism and Activism"
+  }
+]
