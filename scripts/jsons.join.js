@@ -10,6 +10,7 @@ const run = async () => {
   files.forEach((file) => {
     const inputPath = `../ppl-jsons/raw/${file}`;
     const content = fs.readFileSync(inputPath, 'utf8');
+
     const data = JSON.parse(content).map((item) => {
       const { firstName, lastName } = item;
 
@@ -28,7 +29,7 @@ const run = async () => {
       };
     });
 
-    output.push(data);
+    output.push(...data);
   });
 
   const outputPath = `../ppl-jsons/all.json`;
