@@ -22,6 +22,7 @@ const run = async () => {
       const imageExists = fs.existsSync(`../ppl-images/${imageUrl}`);
 
       return {
+        id: name,
         ...item,
         thumbUrl,
         imageUrl,
